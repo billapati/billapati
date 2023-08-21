@@ -1,4 +1,4 @@
-<h1>Hi, I'm Billapati Gowtham! <br/> <a href="https://www.linkedin.com/in/gowtham-viswanadha-74797b3a/">Cybersecurity Professional</a>, <a href="https://medium.com/@gouthamvishwanath">Secuirty Blogger</a></h1>
+<h1>Hi, I'm Billapati Gowtham! <br/> <a href="https://www.linkedin.com/in/gowtham-viswanadha-74797b3a/">Cybersecurity Professional</a>, <a href="https://medium.com/@gouthamvishwanath">Security Blogger</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
