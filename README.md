@@ -15,7 +15,9 @@
 
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
+[medium]: https://gouthamvishwanath.medium.com/
 [twitter]: https://twitter.com/billapatigthm
 [linkedin]: https://www.linkedin.com/in/gowtham-viswanadha-74797b3a/
 
